@@ -1,0 +1,2 @@
+export const USER_PROVIDER = 'USER_MODEL';
+export const DB_CONNECTION = 'DATABASE_CONNECTION';
